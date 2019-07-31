@@ -1,0 +1,62 @@
+
+►► Question :
+
+Consider the following tables:
+
+Student (id, name, email)
+Course (code, title, credit)
+Result (id, code, gpa)
+
+Write down sql queries for the following questions.
+
+1. List names of all gamil users.
+2. List result of all gmail users.
+3. Find names of all students who have earned gpa same as Rahim's.
+4. List all lab courses.
+5. List name of students whose name started with 'S'.
+6. What is the email of Rahim or Karim.
+7. List students name and details result in cse3011.
+8. Show list of students who have completed 'c lab'.
+
+
+
+
+
+
+
+
+
+
+►► Solution:
+
+
+create table student (id int (10) not null, name varchar(10) not null, email varchar(50), primary key(id) ) ;
+
+create table course (code varchar (10) not null, title varchar (20) not null, credit int (10), 
+primary key(code) ) ;
+
+create table result (id int (10) not null, code varchar(10) not null, gpa double, 
+primary key(id,code)) ;
+
+
+insert into student values (1, "shafayet", "shafayet@gmail.com"), (2, "jobaer", "jobaer@gmail.com"),
+(3, "rahim", "rahim@gmail.com"),(4, "karim", "karim@gmail.com");
+
+insert into course values (‘cse1011’, ‘c’, 3),(‘cse3012’, "c lab", 3),(‘cse3011, ‘database’, 3), (‘cse3012, ‘database lab’, 1),
+
+insert into result values ( 1,’cse1011’,3.5), (2,’cse1012’, 3),(3,’cse3011’, 4),(4,’cse3012’, 3.8);
+
+
+
+1)  select email from student
+2)  select gpa from student, result where student.id=result.id
+3)  select gpa from result where gpa=3
+4)  select * from course where credit=1
+5)  select name from student where name like's%'
+6)  select email from student where 'rahim' or 'karim'
+7)  select gpa from student, result where student.id=result.id and code= 3011
+8) select code, credit from course where credit= 1
+
+
+
+
