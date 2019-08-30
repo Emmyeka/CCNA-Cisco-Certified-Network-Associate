@@ -81,16 +81,3 @@ insert into student values (1, "rafiq", "rafiq@gmail.com"), (2, "shafiq", "shafi
 insert into course values (‘cse1011’, ‘c’, 3),(‘cse3012’, "c lab", 3),(‘cse3011, ‘database’, 3), (‘cse3012, ‘database lab’, 1),
 
 insert into result values ( 1,’cse1011’,3.5), (2,’cse1012’, 3),(3,’cse3011’, 4),(4,’cse3012’, 3.8);
-
-
-
-
-
-1)  select email from student
-2)  select gpa from student, result where student.id=result.id
-3)  select gpa from result where gpa=3
-4)  select * from course where credit=1
-5)  select * from student where name like's%'
-6)  select email from student where 'rahim' or 'karim'
-7)  select gpa from student, result where student.id=result.id and code= 3011
-8) select code, credit from course where credit= 1
