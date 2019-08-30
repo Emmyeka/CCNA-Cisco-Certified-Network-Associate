@@ -55,7 +55,7 @@ insert into result values ( 1,’cse1011’,3.5), (2,’cse1012’, 3),(3,’cse
 5)  select name from student where name like 's%' ;
 6)  select email from student where 'rahim' or 'karim' ;
 7)  select gpa from student, result where student.id=result.id and code= 3011 ;
-8) select code, credit from course where credit= 1 ;
+8)  select code, credit from course where credit= 1 ;
 
 
 
