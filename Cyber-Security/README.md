@@ -19,7 +19,7 @@
   - Chapter 3: Protecting Your Data and Privacy
 - [Chapter 4- Quiz](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Introduction%20to%20CyberSecurity/Quizzes)
   - Chapter 4: Protecting the Organization
-  - [Final Exam](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Introduction%20to%20CyberSecurity/Final%20Exam)
+- [Final Exam](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Introduction%20to%20CyberSecurity/Final%20Exam)
   
 
 
