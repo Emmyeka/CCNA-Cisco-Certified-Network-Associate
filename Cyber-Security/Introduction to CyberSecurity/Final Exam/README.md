@@ -202,5 +202,3 @@ In general, these phases are carried out in sequence. However, during an attack,
 <b>Explanation:</b> An IDS, or intrusion detection system, is a device that can scan packets and compare them to a set of rules or attack signatures. If the packets match attack signatures, then the IDS can create an alert and log the detection.
 
 
-
-
