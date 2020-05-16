@@ -28,5 +28,5 @@
   - Chapter 1: Cybersecurity - A World of Experts and Criminals
 
 
-</br>
+</br></br></br>
 <strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</strong></p><br>
