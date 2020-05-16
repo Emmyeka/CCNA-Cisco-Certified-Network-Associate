@@ -4,6 +4,7 @@
  🔶 <a href="https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security">Cyber Security </a>
 
 1. [Introduction to Cybersecurity](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Introduction%20to%20CyberSecurity)
+1. [Cybersecurity Essentials](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Cybersecurity%20Essentials)
 
 
 
@@ -21,6 +22,11 @@
   - Chapter 4: Protecting the Organization
 - [Final Exam](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Introduction%20to%20CyberSecurity/Final%20Exam)
   
+## CyberSecurity Essentials
+
+- [Chapter 1- Quiz](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Cybersecurity%20Essentials/Quizzes)
+  - Chapter 1: Cybersecurity - A World of Experts and Criminals
+
 
 
 <strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</strong></p><br>
