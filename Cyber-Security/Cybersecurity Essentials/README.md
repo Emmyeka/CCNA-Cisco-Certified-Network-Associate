@@ -1,11 +1,12 @@
-##Charpter 1 – Ethics Quiz
-							
-####1. An employee is at a restaurant with friends and describes an exciting new video game that is under development at the company the employee works for. Is the behavior of the employee ethical or unethical?
- 
-•	ethical
-•	unethical
+## 🔹 Charpter 1 – Ethics Quiz
 
-<b>Explanation:</b>											 It is not ethical to share a confidential product idea before it is released. Describing the game to a group of friends outside the company could leak the idea and jeopardize the new product offering.
+							
+### 1. An employee is at a restaurant with friends and describes an exciting new video game that is under development at the company the employee works for. Is the behavior of the employee ethical or unethical?
+ 
+    - [x] Agile Model
+    - [ ] Waterfall Model
+
+<b>Explanation:</b></br>										 It is not ethical to share a confidential product idea before it is released. Describing the game to a group of friends outside the company could leak the idea and jeopardize the new product offering.
 
 2. During a meeting with the Marketing department, a representative from IT discusses features of an upcoming product that will be released next year.
 •	ethical
