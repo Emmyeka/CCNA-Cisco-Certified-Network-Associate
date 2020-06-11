@@ -26,6 +26,11 @@
 
 - [Chapter 1- Quiz](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Cybersecurity%20Essentials/Quizzes)
   - Chapter 1: Cybersecurity - A World of Experts and Criminals
+- [Chapter 2- Quiz](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Cybersecurity%20Essentials/Quizzes)
+  - Chapter 2: The Cybersecurity Cube
+- [Chapter 3- Quiz](https://github.com/ShafayetB/CCNA-Cisco-Certified-Network-Associate/tree/master/Cyber-Security/Cybersecurity%20Essentials/Quizzes)
+  - Chapter 3: Cybersecurity Threats, Vulnerabilities, and Attacks
+
 
 
 </br></br>
